@@ -1,2 +1,6 @@
 # Tech25Spring
-shared file for tech seminar 25 Spring
+Shared repository for UCLA Tech Seminar 25 Spring: Real-time pavilion
+Michael Peguero
+
+TEAM NAME: 
+TEAM MEMBERS: Yuxuan Liu, Ming Yan
