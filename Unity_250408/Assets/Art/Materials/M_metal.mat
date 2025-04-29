@@ -28,6 +28,7 @@ Material:
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
+  - _BENTNORMALMAP
   - _DISABLE_SSR_TRANSPARENT
   - _DOUBLESIDED_ON
   - _EMISSIVE_COLOR_MAP
@@ -57,11 +58,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BaseColorMap:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 89fc87358cc9f9b469cea2c0b7a2683d, type: 3}
         m_Scale: {x: 0.1, y: 0.2}
         m_Offset: {x: 0, y: 0}
     - _BentNormalMap:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: a9ad0ae4245cdb8488d5f1b0d781f77f, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BentNormalMapOS:
@@ -93,7 +94,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 89fc87358cc9f9b469cea2c0b7a2683d, type: 3}
         m_Scale: {x: 0.1, y: 0.2}
         m_Offset: {x: 0, y: 0}
     - _MaskMap:
@@ -186,7 +187,7 @@ Material:
     - _DstBlend2: 0
     - _EmissiveColorMode: 1
     - _EmissiveExposureWeight: 1
-    - _EmissiveIntensity: 0.125
+    - _EmissiveIntensity: 32
     - _EmissiveIntensityUnit: 1
     - _EnableBlendModePreserveSpecularLighting: 1
     - _EnableFogOnTransparent: 1
@@ -208,10 +209,10 @@ Material:
     - _LinkDetailsWithBase: 1
     - _MaterialID: 1
     - _Metallic: 1
-    - _MetallicRemapMax: 1
-    - _MetallicRemapMin: 0
+    - _MetallicRemapMax: 0.639191
+    - _MetallicRemapMin: 0.20528765
     - _NormalMapSpace: 0
-    - _NormalScale: 1
+    - _NormalScale: 0.4
     - _ObjectSpaceUVMapping: 0
     - _ObjectSpaceUVMappingEmissive: 0
     - _OpaqueCullMode: 2
@@ -226,8 +227,8 @@ Material:
     - _ReceivesSSRTransparent: 0
     - _RefractionModel: 0
     - _Smoothness: 0.7
-    - _SmoothnessRemapMax: 0.88636357
-    - _SmoothnessRemapMin: 0.1331168
+    - _SmoothnessRemapMax: 0.6039455
+    - _SmoothnessRemapMin: 0.25505432
     - _SpecularAAScreenSpaceVariance: 0.1
     - _SpecularAAThreshold: 0.2
     - _SpecularOcclusionMode: 1
@@ -270,8 +271,8 @@ Material:
     - _DiffusionProfileAsset: {r: 0, g: 0, b: 0, a: 0}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
-    - _EmissiveColor: {r: 0.11641517, g: 0.125, b: 0.08414723, a: 0.125}
-    - _EmissiveColorLDR: {r: 0.9691824, g: 1, b: 0.83962256, a: 1}
+    - _EmissiveColor: {r: 23.968626, g: 20.627554, b: 8.151081, a: 32}
+    - _EmissiveColorLDR: {r: 0.88031507, g: 0.823604, b: 0.54173243, a: 1}
     - _InvPrimScale: {r: 1, g: 1, b: 0, a: 0}
     - _IridescenceThicknessRemap: {r: 0, g: 1, b: 0, a: 0}
     - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}
