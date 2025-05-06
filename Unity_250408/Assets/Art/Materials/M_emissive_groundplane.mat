@@ -55,7 +55,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BaseColorMap:
-        m_Texture: {fileID: 2800000, guid: 20ff383bb4bc28c49b3c195d2b18f1cf, type: 3}
+        m_Texture: {fileID: 2800000, guid: 1a47407a8363dc7488f412c28d94ec77, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BentNormalMap:
@@ -75,7 +75,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _EmissiveColorMap:
-        m_Texture: {fileID: 2800000, guid: 20ff383bb4bc28c49b3c195d2b18f1cf, type: 3}
+        m_Texture: {fileID: 2800000, guid: 1a47407a8363dc7488f412c28d94ec77, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _HeightMap:
@@ -91,7 +91,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 20ff383bb4bc28c49b3c195d2b18f1cf, type: 3}
+        m_Texture: {fileID: 2800000, guid: 1a47407a8363dc7488f412c28d94ec77, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MaskMap:
@@ -159,8 +159,8 @@ Material:
     - _AlphaCutoffPrepass: 0.5
     - _AlphaCutoffShadow: 0.5
     - _AlphaDstBlend: 10
-    - _AlphaRemapMax: 0.7403741
-    - _AlphaRemapMin: 0.41364148
+    - _AlphaRemapMax: 0.34310925
+    - _AlphaRemapMin: 0
     - _AlphaSrcBlend: 1
     - _Anisotropy: 0
     - _BlendMode: 0
